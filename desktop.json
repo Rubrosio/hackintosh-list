@@ -148,5 +148,16 @@
 		"OS": "10.14",
 		"Author": "SuperNG6",
 		"Link": "https://github.com/SuperNG6/MSI-b360-10.14.1-EFI"
+	},
+	{
+		"Motherboard": "ASUS B150M PLUS D3",
+		"CPU": "i3-6100",
+		"GPU": "迪兰HD7850+HD530",
+		"Audio": "Realtek ALC887",
+		"Network": "Rt8111H",
+		"OS": "10.14",
+		"Author": "Rubrosio",
+		"Link": "https://github.com/Rubrosio/ASUS-B150M-10.14.X-EFI"
+		
 	}
 ]
